@@ -330,5 +330,4 @@ rnn = load_model("rnn_airline_model.h5")
 
 Made with ❤️ and lots of ☕ by **Krisha Anghan**
 
-
 </div>
