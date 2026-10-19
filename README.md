@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/status-completed-success?style=flat-square" alt="Status"/>
 </p>
 
-**👤 Author: Meet Anghan**
+**👤 Author: Krisha Anghan**
 
 </div>
 
@@ -328,8 +328,7 @@ rnn = load_model("rnn_airline_model.h5")
 
 ### 🙌 Thanks for visiting!
 
-Made with ❤️ and lots of ☕ by **Meet Anghan**
+Made with ❤️ and lots of ☕ by **Krisha Anghan**
 
-⭐ *If you found this project helpful, give it a star!* ⭐
 
 </div>
