@@ -1,6 +1,6 @@
 # Summary Report – Deep Learning Practical Exam (Set A)
 
-**Name:** Meet Anghan
+**Name:** Krisha Anghan
 
 ## The Five Tasks and Datasets
 
