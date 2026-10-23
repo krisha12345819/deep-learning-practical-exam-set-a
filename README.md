@@ -311,6 +311,12 @@ rnn = load_model("rnn_airline_model.h5")
 
 ---
 
+## 🎥 Video Walkthrough
+
+▶️ **Watch the project explanation here:** [🎬 Click to open the video]([https://drive.google.com/file/d/1knoycRq9vvQeIgtNOfZlIISvAlAsE06f/view?usp=sharing](https://drive.google.com/file/d/1jFVWE5voH53PmtiNlfsf3PW3VDbNyDee/view?usp=sharing))
+
+---
+
 ## 🔗 Resources
 
 | 🏷️ Resource | 🔗 Link |
